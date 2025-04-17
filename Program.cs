@@ -8,12 +8,6 @@ using System.Net.Mail;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Transactions;
-namespace Qwerty
-{
-
-    using System;
-    using System.Collections.Generic;
-
     namespace StudentManagementApp
     {
         class Program
